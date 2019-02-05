@@ -532,6 +532,7 @@
                     </LinearLayout>
 
                     <Button
+                        android:foreground="?android:selectableItemBackground"
                         android:id="@+id/RegisterBtn"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -552,6 +553,7 @@
                         android:textColor="@android:color/background_light" />
 
                     <Button
+                        android:foreground="?selectableItemBackground"
                         android:id="@+id/loginFacebook"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
