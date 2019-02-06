@@ -6,7 +6,6 @@
 </ul>
 
 <h1>Description</h1>
-<p>Academic demo app, this app is not debugged, its just a sample demo</p>
+<p>Design of a simple register layout. It's static</p>
+<p>Academic demo app, this app is not complityl debugged, its just a sample demo. It could contain not extracted strings and not indented code</p>
 
-<h1>Apk demo</h1>
-<h3>Upcoming...</h3>
