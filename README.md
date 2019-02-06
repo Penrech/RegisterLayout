@@ -7,5 +7,5 @@
 
 <h1>Description</h1>
 <p>Design of a simple register layout. It's static</p>
-<p>Academic demo app, this app is not complityl debugged, its just a sample demo. It could contain not extracted strings and not indented code</p>
+<p>Academic demo app, this app is not completely debugged, it's just a demo. It could contain not extracted Strings and not indented code</p>
 
