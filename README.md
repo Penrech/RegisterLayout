@@ -9,6 +9,7 @@
 
 <h1>Description</h1>
 <p>Design of a simple register layout. It's static</p>
+<p>Academic demo app, this app is not completely debugged, it's just a demo. It could contain not extracted Strings and not indented code</p>
 
 <h1>Screenshots</h1>
 <p>
@@ -17,9 +18,8 @@
 </p>
 
 
-
-
-<h1>Demos</h1>
-<p>Academic demo app, this app is not completely debugged, it's just a demo. It could contain not extracted Strings and not indented code</p>
-
+<h1>Demo</h1>
+<p align= 'center'>
+  <a href='https://www.youtube.com/watch?v=4GCyN4V-rCc'><img src='registerDef.gif' width= '49%'></a>
+</p>
 
