@@ -9,3 +9,7 @@
 <p>Design of a simple register layout. It's static</p>
 <p>Academic demo app, this app is not completely debugged, it's just a demo. It could contain not extracted Strings and not indented code</p>
 
+<video width="560" controls>
+  <source src="valid_1.mp4" type="video/mp4">
+</video>
+
