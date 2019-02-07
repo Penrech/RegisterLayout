@@ -4,6 +4,7 @@
 <b>Main tools</b>
 <ul>
 <li>ScrollView</li>
+<li>CardlView</li>
 </ul>
 
 
