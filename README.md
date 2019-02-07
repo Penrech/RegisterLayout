@@ -6,9 +6,9 @@
 <li>ScrollView</li>
 </ul>
 
-<p float = "left" margin= '0'>
-<img width = "49%" src='device-2019-02-05-124030.png'/>
-<img width = "49%" src='device-2019-02-05-124056.png'/>
+<p float = "left" display = 'inline-flex'>
+<img padding = '5px' src='device-2019-02-05-124030.png'/>
+<img  padding = '5px' src='device-2019-02-05-124056.png'/>
 </p>
 
 <h1>Description</h1>
