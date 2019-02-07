@@ -6,15 +6,12 @@
 <li>ScrollView</li>
 </ul>
 
-$ cat README.md
-aa|bb|cc
---|--|--
-ee|ff|gg
-$ cat custom.css
-td, th {
-    border: 1px solid grey
-}
-$ markdown-pdf --css-path='custom.css' README.md
+<table>
+    <tr>
+        <th style='padding: 2px 5px '><img src='device-2019-02-05-124030.png'/></th>
+        <th style='padding: 2px 5px '><img src='device-2019-02-05-124056.png'/></th>
+    </tr>
+</table>
 
 <h1>Description</h1>
 <p>Design of a simple register layout. It's static</p>
