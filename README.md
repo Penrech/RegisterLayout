@@ -6,6 +6,16 @@
 <li>ScrollView</li>
 </ul>
 
+$ cat example.md
+aa|bb|cc
+--|--|--
+ee|ff|gg
+$ cat custom.css
+td, th {
+    border: 1px solid grey
+}
+$ markdown-pdf --css-path='custom.css' example.md
+
 <h1>Description</h1>
 <p>Design of a simple register layout. It's static</p>
 
