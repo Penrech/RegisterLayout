@@ -7,8 +7,8 @@
 </ul>
 
 <p float = "left">
-<img max-width = "50%" src='device-2019-02-05-124030.png'/>
-<img max-width = "50%" src='device-2019-02-05-124056.png'/>
+<img max-width = "50" src='device-2019-02-05-124030.png'/>
+<img max-width = "50" src='device-2019-02-05-124056.png'/>
 </p>
 
 <h1>Description</h1>
