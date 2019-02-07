@@ -13,8 +13,8 @@
 
 
 $ cat README.md
-![](device-2019-02-05-124030.png)|![](device-2019-02-05-124056.png)|
-|--|--|
+|![](device-2019-02-05-124030.png)|![](device-2019-02-05-124056.png)|
+|---|---|
 
 $ cat custom.css
 td, th {
