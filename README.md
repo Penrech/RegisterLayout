@@ -16,7 +16,7 @@
 |---|---|
 # cat custom.css
 td, th {
-    border: none
+    border: 0px
 }
 # markdown-pdf --css-path='custom.css' README.md
 
