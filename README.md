@@ -17,8 +17,8 @@
 
 
 <table class="no-border">
-        <td>![](device-2019-02-05-124030.png)</td>
-        <td>![](device-2019-02-05-124056.png)</td>
+        <td>$![](device-2019-02-05-124030.png)</td>
+        <td>$![](device-2019-02-05-124056.png)</td>
 
 </table>
 
