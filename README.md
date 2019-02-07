@@ -18,9 +18,8 @@
 </p>
 
 
-<h1>Demo *
-  <p>Hola</p>
-</h1>
+<h1>Demo *</h1>
+<p style>Hola</p>
 
 
 <p align="center">
