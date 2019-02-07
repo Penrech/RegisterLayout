@@ -6,11 +6,6 @@
 <li>ScrollView</li>
 </ul>
 
-<h1>Description</h1>
-<p>Design of a simple register layout. It's static</p>
-
-<h1>Screenshots</h1>
-
 # cat README.md
 |![](device-2019-02-05-124030.png)|![](device-2019-02-05-124056.png)|
 |---|---|
@@ -19,6 +14,13 @@ td, th {
     border: 0px
 }
 # markdown-pdf --css-path='custom.css' README.md
+
+<h1>Description</h1>
+<p>Design of a simple register layout. It's static</p>
+
+<h1>Screenshots</h1>
+
+
 
 
 <h1>Demos</h1>
