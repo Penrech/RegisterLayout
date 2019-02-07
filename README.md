@@ -12,8 +12,8 @@
 <h1>Screenshots</h1>
 
 <table >
-    <td style='border:none'><img src='device-2019-02-05-124030.png'/></td>
-    <td style='border:none'><img src='device-2019-02-05-124056.png'/></td>
+    <td style='border:0 !important'><img src='device-2019-02-05-124030.png'/></td>
+    <td style='border:0 !important'><img src='device-2019-02-05-124056.png'/></td>
 </table>
 
 
