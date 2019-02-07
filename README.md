@@ -1,5 +1,5 @@
 
-<h1>Register layout design</h1><br>
+<h1>Register layout design</h1>
 <h3>Android (Kotlin), well it's all XML</h3>
 <b>Main tools</b>
 <ul>
