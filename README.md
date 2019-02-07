@@ -20,6 +20,7 @@
 
 <h1>Demo</h1>
 <p align= 'center'>
-  <a target="_blank" href='https://www.youtube.com/watch?v=4GCyN4V-rCc'><img src='registerDef.gif' width= '49%'></a>
+  ![registerDef.gif](https://www.youtube.com/watch?v=4GCyN4V-rCc)
+  
 </p>
 
