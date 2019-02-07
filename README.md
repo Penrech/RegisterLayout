@@ -1,8 +1,4 @@
-<style>
-.site-main table.no-border td {
-    border: none;
-}
-</style>
+
 <h1>Register layout design</h1><br>
 <h3>Android (Kotlin), well it's all XML</h3>
 <b>Main tools</b>
@@ -21,6 +17,11 @@
         <td><img src='device-2019-02-05-124056.png'/></td>
 
 </table>
+<style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
 
 
 <h1>Demos</h1>
