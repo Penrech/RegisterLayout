@@ -11,16 +11,10 @@
 
 <h1>Screenshots</h1>
 
-
-$ cat README.md
-|![](device-2019-02-05-124030.png)|![](device-2019-02-05-124056.png)|
-|---|---|
-
-$ cat custom.css
-td, th {
-    border: none
-}
-$ markdown-pdf --css-path='custom.css' README.md
+<table style='border:none'>
+    <td><img src='device-2019-02-05-124030.png'/></td>
+    <td><img src='device-2019-02-05-124056.png'/></td>
+</table>
 
 
 <h1>Demos</h1>
