@@ -6,12 +6,10 @@
 <li>ScrollView</li>
 </ul>
 
-<table>
-    <tr style='border: 0px !important'>
-        <th style='padding: 2px 5px '><img src='device-2019-02-05-124030.png'/></th>
-        <th style='padding: 2px 5px '><img src='device-2019-02-05-124056.png'/></th>
-    </tr>
-</table>
+<p>
+<img style='width:50%' src='device-2019-02-05-124030.png'/>
+<img style='width:50%' src='device-2019-02-05-124056.png'/>
+</p>
 
 <h1>Description</h1>
 <p>Design of a simple register layout. It's static</p>
