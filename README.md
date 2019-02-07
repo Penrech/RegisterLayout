@@ -7,8 +7,8 @@
 </ul>
 
 <p>
-  <a href=''><img width = '49%' src='device-2019-02-05-124030.png'/></a>
-<img  width = '49%' src='device-2019-02-05-124056.png'/>
+  <a href='#img1'><img id='img1' width = '49%' src='device-2019-02-05-124030.png'/></a>
+<img id='img2' width = '49%' src='device-2019-02-05-124056.png'/>
 </p>
 
 <h1>Description</h1>
