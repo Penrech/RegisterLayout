@@ -6,27 +6,20 @@
 <li>ScrollView</li>
 </ul>
 
-# cat README.md
-aa|bb|cc
---|--|--
-ee|ff|gg
-# cat custom.css
-td, th {
-    border: 1px solid grey
-}
-# markdown-pdf --css-path='custom.css' README.md
-
 <h1>Description</h1>
 <p>Design of a simple register layout. It's static</p>
 
 <h1>Screenshots</h1>
 
-<table style='border:0 !important; border-collapse: collapse'>
-    <tr style='border:0 !important'>
-        <td style='border:0 !important'><img src='device-2019-02-05-124030.png'/></td>
-        <td style='border:0 !important'><img src='device-2019-02-05-124056.png'/></td>
-    </tr>
-</table>
+# cat README.md
+|![](device-2019-02-05-124030.png)|![](device-2019-02-05-124056.png)|
+|---|---|
+ee|ff|gg
+# cat custom.css
+td, th {
+    border: none
+}
+# markdown-pdf --css-path='custom.css' README.md
 
 
 <h1>Demos</h1>
