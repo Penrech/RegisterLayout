@@ -19,7 +19,7 @@
 
 
 <h1>Demo</h1>
-<p align= 'center'>
-  [![Label](registerDef.gif)](https://www.youtube.com/watch?v=4GCyN4V-rCc)
-</p>
+
+  [![](registerDef.gif)](https://www.youtube.com/watch?v=4GCyN4V-rCc)
+
 
