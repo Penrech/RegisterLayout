@@ -20,6 +20,6 @@
 
 <h1>Demo</h1>
 <p align= 'center'>
-  [![](https://github.com/Penrech/RegisterLayout/blob/master/registerDef.gif)](https://www.youtube.com/watch?v=4GCyN4V-rCc)
+  [![Label](registerDef.gif)](https://www.youtube.com/watch?v=4GCyN4V-rCc)
 </p>
 
