@@ -20,6 +20,8 @@
 
 <h1>Demo</h1>
 
-  [![](registerDef.gif)](https://www.youtube.com/watch?v=4GCyN4V-rCc)
+<p align="center">
+  <a href='https://www.youtube.com/watch?v=4GCyN4V-rCc'><img width = '49%' src='registerDef.gif'/></a>
+</p>
 
 
