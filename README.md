@@ -6,7 +6,7 @@
 <li>ScrollView</li>
 </ul>
 
-<p style="display:inline-flex">
+<p>
 <img width = '49%' src='device-2019-02-05-124030.png'/>
 <img  width = '49%' src='device-2019-02-05-124056.png'/>
 </p>
