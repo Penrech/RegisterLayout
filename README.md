@@ -1,3 +1,8 @@
+<style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
 <h1>Register layout design</h1><br>
 <h3>Android (Kotlin), well it's all XML</h3>
 <b>Main tools</b>
@@ -10,16 +15,13 @@
 
 <h1>Screenshots</h1>
 
-|  ![](device-2019-02-05-124030.png) | ![](device-2019-02-05-124056.png)  |
-|---|---|{:.mbtablestyle}
 
-.mbtablestyle {
-        border-collapse: collapse;
+<table class="no-border">
+        <td>![](device-2019-02-05-124030.png)</td>
+        <td>![](device-2019-02-05-124056.png)</td>
 
-   > table, td, th {
-        border: 1px solid black;
-        }
-}
+</table>
+
 
 <h1>Demos</h1>
 <p>Academic demo app, this app is not completely debugged, it's just a demo. It could contain not extracted Strings and not indented code</p>
