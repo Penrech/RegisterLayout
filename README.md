@@ -20,7 +20,7 @@
 
 
 <h1>Demo *</h1>
-<p style>*A higher quality video opens on YouTube when clicked</p>
+<p style>*A higher quality and longer video opens on YouTube when clicked</p>
 
 
 <p align="center">
