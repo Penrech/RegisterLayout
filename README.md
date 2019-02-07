@@ -6,7 +6,7 @@
 <li>ScrollView</li>
 </ul>
 
-<p>
+<p style='float: left'>
 <img style='max-width:50% !important' src='device-2019-02-05-124030.png'/>
 <img style='max-width:50% !important' src='device-2019-02-05-124056.png'/>
 </p>
