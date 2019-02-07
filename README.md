@@ -7,11 +7,12 @@
 </ul>
 
 # cat README.md
-|aa|bb|
-|---|---|
+aa|bb|cc
+--|--|--
+ee|ff|gg
 # cat custom.css
 td, th {
-    border: 0px
+    border: 1px solid grey
 }
 # markdown-pdf --css-path='custom.css' README.md
 
